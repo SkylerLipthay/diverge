@@ -7,3 +7,4 @@ description = "Extension injection site specification through a simple macro"
 readme = "README.md"
 keywords = ["injection", "concerns", "macro"]
 license = "MIT"
+repository = "https://github.com/SkylerLipthay/diverge"
