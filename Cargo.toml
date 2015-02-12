@@ -3,3 +3,7 @@
 name = "diverge"
 version = "0.0.1"
 authors = ["Skyler Lipthay <skyler.lipthay@gmail.com>"]
+description = "Extension injection site specification through a simple macro"
+readme = "README.md"
+keywords = ["injection", "concerns", "macro"]
+license = "MIT"
